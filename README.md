@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amanvaidya
-- 👀 I’m interested in backend
+- 👀 I’m interested in backend development.
 - 📫 How to reach me amanvaidya700@gmail.com
 
 <!---
