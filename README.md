@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanvaidya
+- 👋 Hi, I’m Aman Vaidya
 - 👀 I’m interested in backend development.
 - 📫 How to reach me amanvaidya700@gmail.com
 
